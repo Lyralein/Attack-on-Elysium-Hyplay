@@ -13,9 +13,13 @@ Protect Elysium from robots in the Sci-Fi world!</h1>
 </ul>
 
 <h3>Instructions</h3>
-W, A, S, D - Movement</br>
-1, 2, 3, 4 - Choice of buffs</br>
+<ul>
+<li>W, A, S, D - Movement</li>
+<li>1, 2, 3, 4 - Choice of buffs</li>
+</ul>
 
 <h3>Credits</h3>
-Game by Lyralein</br>
-In-game music by DavidKBD and Theo Prior Music
+<ul>
+<li>Game by Lyralein</li>
+<li>In-game music by DavidKBD and Theo Prior Music</li>
+</ul>
