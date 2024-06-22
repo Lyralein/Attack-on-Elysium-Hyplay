@@ -1,5 +1,5 @@
-Attack on Elysium is a top-down arena shooter roguelite.
-Protect Elysium from robots in the Sci-Fi world!
+<h1>Attack on Elysium is a top-down arena shooter roguelite.</br>
+Protect Elysium from robots in the Sci-Fi world!</h1>
 
 
 Features
