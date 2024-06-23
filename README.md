@@ -3,7 +3,7 @@ Protect Elysium from robots in the Sci-Fi world!</h1>
 
 <h3>Features</h3>
 <ul>
-<li>Hyplay integration.</li>
+<li>Hyplay integration (characters, currency, progress are stored on your account).</li>
 <li>Different enemies and bosses with unique types of attacks.</li>
 <li>Endless wave system that gets harder over time, choose the right build to last longer!</li>
 <li>Survive the maximum number of waves and get into the leaderboard.</li>
@@ -16,6 +16,7 @@ Protect Elysium from robots in the Sci-Fi world!</h1>
 <ul>
 <li>W, A, S, D - Movement</li>
 <li>1, 2, 3, 4 - Choice of buffs</li>
+<li>F11 - FULL SCREEN</li>
 </ul>
 
 <h3>Credits</h3>
